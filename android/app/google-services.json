@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307078471572",
+    "project_id": "giginsure-5c6db",
+    "storage_bucket": "giginsure-5c6db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307078471572:android:c53a7f0697c2fba41cb981",
+        "android_client_info": {
+          "package_name": "com.example.giginsure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUKv1P8Uyw-zDlCanFMubvt2LVCXi2uJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
