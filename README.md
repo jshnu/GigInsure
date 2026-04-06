@@ -99,5 +99,3 @@ Along with secondary verification, most fraud rings use emulators or "hardened" 
 
 - **The "Hyper-Active" Flag:** Fraud rings often cycle through 500 accounts on a few physical devices. We flag any device (via IMEI/MAC fingerprinting) that has logged into more than two unique insurance IDs in 24 hours.
 
-
-Phase 2 DEMO VIDEO: https://drive.google.com/file/d/1dcnqdmUps3Oee31jYkqZKZkcdbAf_NYl/view?usp=sharing
